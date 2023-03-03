@@ -28,3 +28,5 @@
 17- e. 2 subredes con 62 hosts
 
 18- a.126 subredes y 510 hosts
+
+20- d. 255.255.254.0
