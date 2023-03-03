@@ -9,6 +9,8 @@
 6-  a. 10011001.01111000.01101101.11111000
     c. 10111001.11001000.00110111.01001100
 
-8-  c. 126 subredes con 510 hosts  
+8-  b. 128 subredes con 510 hosts  
 
 8.2-e. Ninguna de las respuestas es correcta.
+
+10- a. 255.0.0.0 
