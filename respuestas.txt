@@ -24,3 +24,5 @@
 15- d. 255.255.255.0
 
 16- d. dirección = 192.168.85.128, broadcast 192.168.85.191
+
+17- e. 2 subredes con 62 hosts
