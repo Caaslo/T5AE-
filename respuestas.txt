@@ -10,3 +10,5 @@
     c. 10111001.11001000.00110111.01001100
 
 8-  c. 126 subredes con 510 hosts  
+
+8.2-e. Ninguna de las respuestas es correcta.
